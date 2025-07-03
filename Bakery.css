@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(137, 231, 228);
+  background-color: rgb(174, 233, 232);
 #pic {
 border: ;
 border-style:double;
@@ -7,7 +7,7 @@ border-color: black; ;
 }
 }
 ul {
-  background-color: rgb(29, 106, 230);
+  background-color: rgba(149, 159, 58, 0.751);
   color: white;
   margin-right: 80%;
   font-size: larger;
@@ -17,6 +17,7 @@ ul {
 }
 h1 {
   font-size: 30px;
+  font-family: cursive;
 }
 p {
   color: blue;
@@ -32,5 +33,5 @@ footer {
   color: white;
   .item1 {
     background-color: red;
-  }
+
 
