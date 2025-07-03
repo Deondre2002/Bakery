@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(137, 231, 228);
+#pic {
+border: ;
+border-style:double;
+border-color: black; ;
+}
+}
+ul {
+  background-color: rgb(29, 106, 230);
+  color: white;
+  margin-right: 80%;
+  font-size: larger;
+  border: ;
+  border-style:double;
+  border-color: black;
+}
+h1 {
+  font-size: 30px;
+}
+p {
+  color: blue;
+  font-family: cursive;
+  font-size: larger;
+}
+footer {
+  color: red;
+  font-size: 40px;
+}
+.testimonial {
+  background-color: black;
+  color: white;
+  .item1 {
+    background-color: red;
+  }
+
